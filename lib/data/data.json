@@ -1,0 +1,97 @@
+{
+  "wines_by": [
+    {
+      "tag": "type",
+      "name": "Type"
+    },
+    {
+      "tag": "style",
+      "name": "Style"
+    },
+    {
+      "tag": "country",
+      "name": "Countries"
+    },
+    {
+      "tag": "grape",
+      "name": "Grape"
+    }
+  ],
+  "carousel": [
+    {
+      "name": "Chateau Margaux 2015",
+      "image": "https://www.bauraulacvins.ch/upload/rm/00/00/000000000022508815-5.webp",
+      "critic_score": 97,
+      "bottle_size": "750 ml",
+      "price_usd": 750,
+      "type": "Red",
+      "from": {
+        "countryCode": "fr",
+        "country": "France",
+        "city": "Bordeaux"
+      },
+      "available": "Available",
+      "isFavorite": "false"
+    },
+    {
+      "name": "Cloudy Bay Sauvignon Blanc 2020",
+      "image": "https://www.oldvinewineomaha.com/wp-content/uploads/2020/03/cloudy-bay-wine-sauvignon-2022-bottle.png",
+      "critic_score": 92,
+      "bottle_size": "750 ml",
+      "price_usd": 30,
+      "type": "White",
+      "from": {
+        "countryCode": "nz",
+        "country": "New Zealand",
+        "city": "Marlborough"
+      },
+      "available": "Available",
+      "isFavorite": "true"
+    },
+    {
+      "name": "Moet & Chandon Imperial Brut",
+      "image": "https://alcomarket.md/public/products/thumbs/items-4085-4098.png",
+      "critic_score": 89,
+      "bottle_size": "750 ml",
+      "price_usd": 50,
+      "type": "Sparkling",
+      "from": {
+        "countryCode": "fr",
+        "country": "France",
+        "city": "Champagne"
+      },
+      "available": "Available",
+      "isFavorite": "false"
+    },
+    {
+      "name": "Penfolds Grange 2016",
+      "image": "https://www.penfolds.com/on/demandware.static/-/Sites-twe-master-catalog/default/dw481bb75b/images/Penfolds/The%20Penfolds%20Collection%20Grange%202016%20Bottle%20with%20Presentation%20Box.png",
+      "critic_score": 98,
+      "bottle_size": "750 ml",
+      "price_usd": 850,
+      "type": "Red",
+      "from": {
+        "countryCode": "au",
+        "country": "Australia",
+        "city": "Barossa Valley"
+      },
+      "available": "Unavailable",
+      "isFavorite": "false"
+    },
+    {
+      "name": "Gavi di Gavi La Scolca 2019",
+      "image": "https://shop.lascolca.net/wp-content/uploads/2020/11/gigi-centocinque.png",
+      "critic_score": 90,
+      "bottle_size": "750 ml",
+      "price_usd": 40,
+      "type": "White",
+      "from": {
+        "countryCode": "it",
+        "country": "Italy",
+        "city": "Piedmont"
+      },
+      "available": "Available",
+      "isFavorite": "true"
+    }
+  ]
+}
